@@ -1,0 +1,19 @@
+{
+  "name": "nih0/docblock-route",
+  "description": "PHP DocBlock Router",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nihad Dizdarevic"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DocBlockRoute\\": "src/"
+    }
+  },
+  "require": {
+    "phpdocumentor/reflection-docblock": "3.1.1"
+  }
+}
