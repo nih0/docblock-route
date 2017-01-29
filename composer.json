@@ -1,5 +1,6 @@
 {
   "name": "nih0/docblock-route",
+  "type": "library",
   "description": "PHP DocBlock Router",
   "minimum-stability": "stable",
   "license": "MIT",
